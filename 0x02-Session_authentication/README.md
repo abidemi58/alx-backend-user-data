@@ -1,1 +1,2 @@
-uniqueels session auth
+0x01. Basic authentication
+
